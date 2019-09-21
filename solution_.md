@@ -6,3 +6,6 @@
 
 #### Figure
 
+![alt text](https://github.com/beaufurnee/CS_Assignment/blob/master/studentconsumption.png "Student beer consumption 2006-2018")
+
+From only plotting the data provided, it became apparent that not only the number of students increased, but also the total consumption of beer (left plot). Diving deeper into the data shows however, that the beer consumption per student decreased over the years (right plot).
